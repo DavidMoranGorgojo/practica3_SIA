@@ -11,7 +11,7 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-
+ 
 # util.py
 # -------
 # Licensing Information:  You are free to use or extend these projects for

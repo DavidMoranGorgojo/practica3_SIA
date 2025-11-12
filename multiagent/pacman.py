@@ -694,7 +694,7 @@ def runGames(layout, pacman, ghosts, display, numGames, record, numTraining=0, c
         game.run()
         if not beQuiet:
             games.append(game)
-
+            
         if record:
             import time
             import pickle
